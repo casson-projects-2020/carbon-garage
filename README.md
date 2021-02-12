@@ -158,7 +158,7 @@ Ainda deve ser projetado.
 
 Nas imagens aparece somente como dois furos no isolamento.
 
-No entanto, é possivel um sistema melhor, por exemplo montado com junções em "t" como abaixo:
+No entanto, é possivel um sistema melhor, por exemplo montado com junções em "t" como abaixo, onde podemos abrir somente as saidas que queremos testar:
 
 <img src="https://github.com/casson-projects-2020/carbon-garage/blob/main/vents.png" />
 
