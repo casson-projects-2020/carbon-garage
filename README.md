@@ -120,7 +120,9 @@ Note a parte de baixo da estrutura, isolada termicamente. A balança será coloc
 
 A mesa não pode ficar apoiada no fundo da estrutura: se isso acontecer, ela não vai transferir o peso da peça para a balança.
 
-Não é possivel ver na imagem, mas temos um furo no isolante abaixo da mesa, e uma pequena barra que apoia a mesa em cima da balança.
+Deve existir um furo no isolante abaixo da mesa, e uma pequena barra que apoia a mesa em cima da balança, como na imagem abaixo:
+
+<img src="https://github.com/casson-projects-2020/carbon-garage/blob/main/apoio_balança.png" />
 
 Para estabilizar a mesa, ela pode utilizar um sistema de trilhos (sugeridos na imagem).
 
@@ -158,9 +160,13 @@ Nas imagens aparece somente como dois furos no isolamento.
 
 No entanto, é possivel um sistema melhor, por exemplo montado com junções em "t" como abaixo:
 
-# TODO: imagem da sugestao
+<img src="https://github.com/casson-projects-2020/carbon-garage/blob/main/vents.png" />
 
-As sugestoes de carro nao estão levando em conta esse sistema, então talvez os carros e a mesa tenham que ser mais estreitos ou terem um espaço no meio para permitir
+As sugestoes dos carros e da mesa nao estão levando em conta esse sistema, então talvez eles tenham que ser mais estreitos ou terem um espaço no meio para permitir
 a passagem desses canos.
+
+### 3.8 - Controladora
+
+A controladora pode ficar no espaço isolado termicamente abaixo, ou pode ser externa. A passagem de cabos e fixação de sensores ainda precisa ser projetada.
 
 
