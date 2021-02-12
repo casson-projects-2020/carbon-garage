@@ -96,7 +96,7 @@ Ele deve permitir que o ar entre por um unico ponto e saia por um unico ponto, o
 ### 2.8 - Controladora
 Vamos usar um Raspberry Pi Zero W ou um Raspberry Pi Pico, o que for adequado para o processamento.
 
-<img src="https://uploads.filipeflop.com/2017/03/DESCRITIVO_ITENS1.png" xwidth=400 />
+<img src="https://uploads.filipeflop.com/2017/03/DESCRITIVO_ITENS1.png" />
 
 Teremos sensores para medir a temperatura da peça, idealmente em varios pontos. Os sensores poderão ser termo-pares, ou talvez algo mais avançado como uma camera termica.
 
@@ -109,3 +109,58 @@ Pode-se incluir sensores de vazão de ar.
 ## 3 - Primeiro esboço do projeto
 
 ### 3.3 - Mesa
+
+<img src="https://github.com/casson-projects-2020/carbon-garage/blob/main/mesa.png" />
+
+Sugestão da mesa montada como uma caixa de perfis de aço. Ela deve ser coberta com uma chapa perfurada ou algo equivalente.
+
+As peças vermelhas sao os isolantes termicos dentro da estrutura.
+
+Note a parte de baixo da estrutura, isolada termicamente. A balança será colocada nessa parte de baixo.
+
+A mesa não pode ficar apoiada no fundo da estrutura: se isso acontecer, ela não vai transferir o peso da peça para a balança.
+
+Não é possivel ver na imagem, mas temos um furo no isolante abaixo da mesa, e uma pequena barra que apoia a mesa em cima da balança.
+
+Para estabilizar a mesa, ela pode utilizar um sistema de trilhos (sugeridos na imagem).
+
+Ela no entanto tem que estar perfeitamente balanceada: se tombar para um lado, a leitura de peso terá erro.
+
+### 3.4 - Contra-peso
+
+Para o contra-peso a ideia inicial foi uma caixa de aço com alavancas que empurrariam a balança pra cima.
+
+No entanto, talvez um sistema com cabos e polias seja mais simples.
+
+A equipe precisa discutir e chegar na melhor solução.
+
+### 3.6 - Carros
+
+<img src="https://github.com/casson-projects-2020/carbon-garage/blob/main/carrosup.png" />
+
+Sugestão do carro superior como uma caixa de perfis de aço.
+
+O item em laranja é o aquecedor.
+
+Para realizar o movimento de subir e descer do carro, ele poderia correr em trilhos como sugerido no desenho, ou pode-se pensar num sistema em que o carro esteja pendurado 
+por cabos de aço.
+
+<img src="https://github.com/casson-projects-2020/carbon-garage/blob/main/carroinf.png" />
+
+Sugestão do carro inferior montado dentro da mesa, correndo nos mesmos trilhos.
+
+Note que o carro superior é uma copia do inferior, mas isso não é obrigatorio: o carro superior pode ser maior.
+
+### 3.7 - Sistema de ar
+Ainda deve ser projetado.
+
+Nas imagens aparece somente como dois furos no isolamento.
+
+No entanto, é possivel um sistema melhor, por exemplo montado com junções em "t" como abaixo:
+
+# TODO: imagem da sugestao
+
+As sugestoes de carro nao estão levando em conta esse sistema, então talvez os carros e a mesa tenham que ser mais estreitos ou terem um espaço no meio para permitir
+a passagem desses canos.
+
+
